@@ -1,0 +1,148 @@
+body{
+  margin: 0;
+    background-color:#effcef;
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+
+}
+h1{
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  width: 10%;
+  font-family: 'Sacramento', cursive;
+  color: #0f4c75;
+
+}
+h2{
+  font-family: 'Nunito', sans-serif;
+  font-size: 2.5rem;
+  color: #0f4c75;
+  font-weight: normal;
+  padding-bottom: 10px;
+
+}
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration:none;
+
+}
+a:hover{
+  color: white;
+}
+
+.pro{
+    text-decoration: underline;
+    font-weight: bold;
+    
+}
+
+.bio{
+  width: 30%;
+  text-align: center;
+  margin: auto;
+}
+p{
+  font-size: 1.2rem;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 2;
+}
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+.top-container{
+  border: solid 20 px;
+    background-color:#bbded6;
+  padding: 20px;
+
+}
+.middle-container{
+
+}
+.bottom-container{
+background-color: #bbded6;
+padding: 50px 0 20px;
+
+}
+.top-image{
+  position: relative;
+  left:250px;
+  width:20%;
+}
+.bottom-image{
+  position: absolute;
+  left:300px;
+    width:15%;
+
+
+}
+
+.middle-image{
+
+}
+.skill-row{
+   width: 50%;
+   margin: 100px auto 100px auto;
+   line-height:2;
+   text-align: left;
+
+}
+.coding-picture{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+
+}
+.dance-icon{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+
+}
+.food-icon{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.tanu-img{
+  padding-top: 50px;
+
+}
+.contact-msg{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+
+.contactbutton {
+	box-shadow:inset 0px 1px 0px 0px #97c4fe;
+	background:linear-gradient(to bottom, #11cdd4 5%, #1e62d0 100%);
+	background-color:#11cdd4;
+	border-radius:6px;
+	border:1px solid #337fed;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	  font-family: 'Montserrat', sans-serif;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #1570cd;
+  margin-bottom: 20px;
+}
+.contactbutton:hover {
+	background:linear-gradient(to bottom, #1e62d0 5%, #11cdd4 100%);
+	background-color:#1e62d0;
+}
+.contactbutton :active {
+	position:relative;
+	top:1px;
+}
+.copyright{
+  color: white;
+  font-size: 0.8rem;
+  padding: 20px 0;
+}
